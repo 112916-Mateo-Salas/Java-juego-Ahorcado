@@ -11,4 +11,4 @@ Si logra completar la palabra gana, caso contrario, que se acaben los intentos p
 6. Clase Character y su metodo ToLowerCase
 
 ### Uno de los ejercicios del Curso de JAVA de SERGIECODE
-Link: https://youtu.be/BdNqW63ZaB0?si=XhIY4qJDOAVRJiU7
+[Link al curso de SergieCode](https://www.youtube.com/@SergieCode)
